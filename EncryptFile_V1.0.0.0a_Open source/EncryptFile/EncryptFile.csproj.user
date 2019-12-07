@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>ftp://xiaowustudio:wujiayang2007%40xiaowustudio.top/web/Application/wujiayang2007/EncryptFile/publish/|ftp://xiaowustudio.top/web/Application/wujiayang2007/EncryptFile/publish/|ftp://192.168.0.105/xiaowstudio/xiaowustudio-xiaowu/Application/EncryptFile/publish/|ftp://192.168.0.105/xiaowstudio/xiaowustudio-xiaowu/Application/publish/|ftp://192.168.0.105/xiaowstudio/xiaowustudio-xiaowu/Application/</PublishUrlHistory>
+    <InstallUrlHistory>http://xiaowustudio.top/Application/wujiayang2007/EncryptFile/publish/|http://xiaowustudio.top/web/Application/wujiayang2007/EncryptFile/publish/|http://192.168.0.105/xiaowstudio/xiaowustudio-xiaowu/Application/EncryptFile/publish/|http://192.168.0.105/|http://www.xiaowustudio.top/</InstallUrlHistory>
+    <SupportUrlHistory>http://xiaowustudio.top|http://192.168.0.105/|ftp://192.168.0.105/</SupportUrlHistory>
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory>http://xiaowustudio.top|http://192.168.0.105/xiaowstudio/xiaowustudio-xiaowu/Application/error</ErrorReportUrlHistory>
+    <FallbackCulture>zh-CN</FallbackCulture>
+    <VerifyUploadedFiles>true</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>
